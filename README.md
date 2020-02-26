@@ -1,5 +1,7 @@
 # Best Flutter Libraries
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V61GH1X)
+
 ### youtube_flutter
 [https://pub.dev/packages/youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
 
