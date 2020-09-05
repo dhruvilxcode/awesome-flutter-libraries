@@ -31,6 +31,21 @@ Add a page turn effect to widgets in your app.
 ![](https://raw.githubusercontent.com/fluttercommunity/page_turn/screenshots/screenshots/demo.gif)
 
 ------------
+### native_pdf_view
+[https://pub.dev/packages/native_pdf_view](https://pub.dev/packages/native_pdf_view "https://pub.dev/packages/native_pdf_view")
+
+Flutter Plugin to render PDF and show a PDF file on Web, MacOs 10.11+, Android 5.0+ and iOS.
+![](https://raw.githubusercontent.com/rbcprolabs/packages.flutter/master/packages/native_pdf_view/example/media/live.gif?raw=true)
+
+------------
+### image_cropper
+[https://pub.dev/packages/image_cropper](https://pub.dev/packages/image_cropper "https://pub.dev/packages/image_cropper")
+
+A Flutter plugin for Android and iOS supports cropping images. This plugin is based on two different native libraries so it comes with different UI between these platforms.
+
+| ![](https://github.com/hnvn/flutter_image_cropper/blob/master/screenshots/android_demo.gif?raw=true)  | ![](https://github.com/hnvn/flutter_image_cropper/blob/master/screenshots/ios_demo.gif?raw=true)  |
+| ------------ | ------------ |
+|   |   |
 
 
 ------------
