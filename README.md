@@ -13,7 +13,12 @@ A flutter package to create a Credit Card widget in your application.
 
 ------------
 
+### avatar_glow
+[https://pub.dev/packages/avatar_glow](https://pub.dev/packages/avatar_glow "https://pub.dev/packages/avatar_glow")
 
+This Flutter package provides a Avatar Glow Widget with cool background glowing animation.
+
+![](https://raw.githubusercontent.com/apgapg/avatar_glow/master/src/app.gif)
 
 ------------
 
