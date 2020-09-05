@@ -80,9 +80,22 @@ A Flutter implementation of slidable list item with directional slide actions th
 [https://pub.dev/packages/file_picker](https://pub.dev/packages/file_picker "https://pub.dev/packages/file_picker")
 A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extensions filtering support.
 
+------------
+### modal_bottom_sheet
+<a href="https://jamesblasco.github.io/modal_bottom_sheet/#/"><img src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/preview.png?raw=true"></a>
+
+# Flutter Modal Bottom Sheet
+
+[![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)](https://github.com/Solido/awesome-flutter)
+[![Pub](https://img.shields.io/pub/v/modal_bottom_sheet.svg?logo=flutter&color=blue&style=flat-square)](https://pub.dev/packages/modal_bottom_sheet)
+
+Create awesome and powerful modal bottom sheets.
+
+|  Cupertino Modal |  Multiple Modals |  Material Modal | Bar Modal  |  Create your own |
+|---|---|---|---|---|
+|<img height="300" src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/cupertino_shared_view.gif?raw=true">| <img  height="300" src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/modal_inside_modal.gif?raw=true">| <img   height="300" src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/material_fit.png?raw=true">|<img   height="300" src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/bar_modal.png?raw=true">| <img height="300" src="https://github.com/jamesblasco/modal_bottom_sheet/blob/screenshots/avatar_modal.png?raw=true">|
 
 ------------
-
 
 ### youtube_flutter
 [https://pub.dev/packages/youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
