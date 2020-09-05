@@ -2,6 +2,23 @@
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V61GH1X)
 
+### awesome_card
+[https://pub.dev/packages/awesome_card](https://pub.dev/packages/awesome_card "https://pub.dev/packages/awesome_card")
+
+Awesome Card
+A flutter package to create a Credit Card widget in your application.
+
+![](https://raw.githubusercontent.com/iamvivekkaushik/AwesomeCard/master/screenshot/card.gif)
+
+
+------------
+
+
+
+------------
+
+
+
 ### youtube_flutter
 [https://pub.dev/packages/youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
 
