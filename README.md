@@ -22,7 +22,18 @@ This Flutter package provides a Avatar Glow Widget with cool background glowing 
 
 ------------
 
+### page_turn
 
+[https://pub.dev/packages/page_turn](https://pub.dev/packages/page_turn "https://pub.dev/packages/page_turn")
+
+Add a page turn effect to widgets in your app.
+
+![](https://raw.githubusercontent.com/fluttercommunity/page_turn/screenshots/screenshots/demo.gif)
+
+------------
+
+
+------------
 
 ### youtube_flutter
 [https://pub.dev/packages/youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
