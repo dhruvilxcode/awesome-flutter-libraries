@@ -47,6 +47,20 @@ A Flutter plugin for Android and iOS supports cropping images. This plugin is ba
 | ------------ | ------------ |
 |   |   |
 
+------------
+### bottom_navy_bar
+[https://pub.dev/packages/bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar "https://pub.dev/packages/bottom_navy_bar")
+
+A beautiful and animated bottom navigation. The navigation bar use your current theme, but you are free to customize it.
+![](https://github.com/pedromassango/bottom_navy_bar/raw/master/navy.gif)
+
+------------
+### curved_navigation_bar
+[https://pub.dev/packages/curved_navigation_bar](https://pub.dev/packages/curved_navigation_bar "https://pub.dev/packages/curved_navigation_bar")
+
+A Flutter package for easy implementation of curved navigation bar.
+
+![](https://github.com/rafalbednarczuk/curved_navigation_bar/raw/master/example.gif)
 
 ------------
 
