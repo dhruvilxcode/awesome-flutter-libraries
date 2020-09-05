@@ -63,6 +63,26 @@ A Flutter package for easy implementation of curved navigation bar.
 ![](https://github.com/rafalbednarczuk/curved_navigation_bar/raw/master/example.gif)
 
 ------------
+### device_preview
+[https://pub.dev/packages/device_preview](https://pub.dev/packages/device_preview "https://pub.dev/packages/device_preview")
+
+Approximate how your app looks and performs on another device.
+![](https://github.com/aloisdeniel/flutter_device_preview/raw/master/device_preview.gif)
+
+------------
+### flutter_slidable
+[https://pub.dev/packages/flutter_slidable](https://pub.dev/packages/flutter_slidable "https://pub.dev/packages/flutter_slidable")
+A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
+![](https://raw.githubusercontent.com/letsar/flutter_slidable/master/doc/images/slidable_overview.gif)
+
+------------
+### file_picker
+[https://pub.dev/packages/file_picker](https://pub.dev/packages/file_picker "https://pub.dev/packages/file_picker")
+A package that allows you to use a native file explorer to pick single or multiple absolute file paths, with extensions filtering support.
+
+
+------------
+
 
 ### youtube_flutter
 [https://pub.dev/packages/youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
