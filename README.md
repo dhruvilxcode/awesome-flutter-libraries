@@ -1,6 +1,6 @@
 # Best Flutter Libraries
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V61GH1X)
+
 
 ### awesome_card
 [https://pub.dev/packages/awesome_card](https://pub.dev/packages/awesome_card "https://pub.dev/packages/awesome_card")
